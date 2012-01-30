@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">keyCode Dev</string>
+    <string name="clean">Clean</string>
+    <string name="copy">Copy</string>
+    <string name="email">Email</string>
+
+</resources>
