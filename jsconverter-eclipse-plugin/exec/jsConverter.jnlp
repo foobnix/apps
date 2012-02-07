@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp spec="1.0+" codebase="https://raw.github.com/foobnix/apps/master/jsconverter-eclipse-plugin/exec/" href="jsConverter.jnlp">
+	<information>
+		<title>JsConverter</title>
+		<vendor>Foobnix APPs</vendor>
+		<homepage href="http://foobnix.com" />
+		<description>Convert Javascript to GSON Models</description>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+		<j2se version="1.6+" />
+		<jar href="jsConverter.jar" />
+	</resources>
+	<application-desc main-class="jsconverter.views.Runner" />
+</jnlp>
